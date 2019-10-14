@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "dark-theme",
+  "description": "A dark theme for KeeWeb",
+  "author": {
+    "name": "e7d",
+    "email": "michael@e7d.io",
+    "url": "https://e7d.io"
+  },
+  "resources": {
+    "css": "sFeDY1LZlouRAa6IC5/aSDHVkmXfwbGfRyH44Q4kd7uW3Kum1NZXw+BKOwFcmPOdKl7rhXU3djuna3cra8WQ4h2rvQhLcaRC0HedOzW4K+TlDBY4MyC0JqFuwT/YcGg3A8XrzchaB/ZPgiMYkHZ/03Lkqi3tsSFQ1GCNRx8MR++TFkX2/kneLAA4JC3Li6qeg7NnkVBVK8CY/QPv5MGjd40Tp/ywjwwk/83wIkPlkvTRYY21KoLVCo+T8IPM4GcSudpJj6tisasUfpfHky/8FVhHrrGglnzFBR+VExShUKukWbbHjfMaMF9q3efNct6Xl8sXxt7BoxtfSz7WdlTfhA=="
+  },
+  "licence": "",
+  "url": "https://e7d.io/keeweb-dark-theme",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvnV+5G7CLlT85wZ+KOV379eQfN/xslVFSIZqmm1Y3E1w9921apfKoplJ7VpT/fUgq46oxLX2rSaqF7bDRWgzgNj6Bbpw/K81hL+k7xp8Fx7yTvZZZ/Ih5uNT2ol3oFQDhOq/QgknzOrwqlnZGwd4P7bjSO7IDd5JJnqpxsdI/vvw+vn946NVoyMkQ0y63u5/G7/lYKuq3Z5DGxnVWdgTidzP1dD8SewEdnhvs5cEvlSohxoPUHlIZ8fLJsBbbh7sSWyzxV9haH/1CkmY4OlbiAwnSANYEEW93Hl04M4nmcQrQX0UgzYf4CLHpmQK6PjhEDUQuiVbKVmC+hJ8LiOQcwIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "dark",
+    "title": "Dark"
+  }
+}

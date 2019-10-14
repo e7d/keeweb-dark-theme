@@ -1,0 +1,61 @@
+.th-dark {
+  --modal-opacity: .9;
+  --background-color: #1f1e1e;
+  --medium-color: #ffffff;
+  --text-color: #ffffff;
+  --action-color: #185bc9;
+  --error-color: #ed5445;
+  --muted-color: #a9a9a9;
+  --muted-color-border: #3c3c3c;
+  --text-selection-bg-color: #185bc9;
+  --text-selection-bg-color-error: #ed5445;
+  --text-semi-muted-color: #d3d3d3;
+  --text-contrast-action-color: #ffffff;
+  --text-contrast-error-color: #ffffff;
+  --base-border-color: #808080;
+  --accent-border-color: #808080;
+  --accent-border-width: 1px;
+  --light-border-color: #353535;
+  --focus-shadow-blur: 3px;
+  --focus-shadow-spread: 0;
+  --form-box-border-focus: #185bc9;
+  --form-box-shadow-color-focus: #185bc9;
+  --form-box-shadow-color-focus-error: rgba(237,84,69,0.7);
+  --dropdown-box-shadow-color: rgba(171,171,171,0.05);
+  --secondary-background-color: #185bc9;
+  --intermediate-background-color: #1f1e1e;
+  --intermediate-pressed-background-color: #1f1e1e;
+  --disabled-background-color: #1f1e1e;
+  --action-background-color-focus: #185bc9;
+  --action-background-color-focus-tr: #1f1e1e;
+  --error-background-color-focus: #9c332a;
+  --error-background-color-focus-tr: rgba(237,84,69,0.1);
+  --action-background-color-active: #185bc9;
+  --action-background-color-active-tr: #1f1e1e;
+  --error-background-color-active: #9c332a;
+  --error-background-color-active-tr: rgba(237,84,69,0.15);
+  --modal-background-color: #1f1e1e;
+  --modal-background-color-tr: #1f1e1e;
+}
+
+.th-dark .app__menu {
+  padding-top: 1rem;
+  background: #2c2d2f;
+}
+
+.th-dark .app__menu .menu__section {
+  border-bottom: none;
+}
+
+.th-dark .app__menu .menu__item-icon {
+  width: 16px;
+  text-align: center;
+}
+
+.th-dark .list__item--active .list__item-descr {
+  color: #78b0f9;
+}
+
+.th-dark .list__search-field {
+  background: rgb(53, 53, 55);
+}
