@@ -12,10 +12,10 @@
   --text-semi-muted-color: #d3d3d3;
   --text-contrast-action-color: #ffffff;
   --text-contrast-error-color: #ffffff;
-  --base-border-color: #808080;
-  --accent-border-color: #808080;
+  --base-border-color: #2c2d2f;
+  --accent-border-color: #185bc9;
   --accent-border-width: 1px;
-  --light-border-color: #353535;
+  --light-border-color: #181818;
   --focus-shadow-blur: 3px;
   --focus-shadow-spread: 0;
   --form-box-border-focus: #185bc9;
@@ -57,5 +57,15 @@
 }
 
 .th-dark .list__search-field {
-  background: rgb(53, 53, 55);
+  background: #2c2d2f;
+}
+
+.th-dark .details__body-aside .details__field-value {
+  color: var(--text-color)
+}
+
+.th-dark .settings__input,
+.th-dark .settings__select {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDYiIGhlaWdodD0iMzA2Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjcwLjMgNTguNjVMMTUzIDE3NS45NSAzNS43IDU4LjY1IDAgOTQuMzVsMTUzIDE1MyAxNTMtMTUzeiIvPjwvc3ZnPg==);
+  background-color: #2c2d2f;
 }
